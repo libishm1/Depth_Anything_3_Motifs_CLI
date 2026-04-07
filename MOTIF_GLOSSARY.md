@@ -10,7 +10,7 @@
 
 ### Scrolls — சுருள்கள் (*Surulgal*)
 
-In the Mahabharatham (temple complex), the lower base (*peedam* / பீடம்), the leg section (*muzhangkaal paagam* / முழங்கால் பாகம்), the thigh section (*thodai paagam* / தொடை பாகம்), and the hip section (*iduppu paagam* / இடுப்பு பாகம*) — across all these parts of the temple body, numerous "scrolls" (*vaar* / வார்) are present.
+In the Maharatham (temple complex), the lower base (*peedam* / பீடம்), the leg section (*muzhangkaal paagam* / முழங்கால் பாகம்), the thigh section (*thodai paagam* / தொடை பாகம்), and the hip section (*iduppu paagam* / இடுப்பு பாகம*) — across all these parts of the temple body, numerous "scrolls" (*vaar* / வார்) are present.
 
 In the first, third, and fourth tiers on all four sides combined, a total of 14 panels contain 56 deity figures.
 
