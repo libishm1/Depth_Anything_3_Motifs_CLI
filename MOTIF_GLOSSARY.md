@@ -2,7 +2,7 @@
 
 > Translated from: **மண்டல ஸ்ரீ மகாரத ஸ்தபதி திருமழிசை தா. கஜேந்திரணாச்சாரி**
 > (*Mandala Sri Magaratha Sthapathi Thirumazhisai Tha. Kajenthiranaachcharri*)
-> Source: *"Sri Mahabharatham" Kalaic Chenthool* (ஸ்ரீ மகாபாரதம் கலைச் செந்தூல்), pp. 182–187
+> Source: *"Sri Magaratham" Kalaic Chenthool* (ஸ்ரீ மகாரதம் கலைச் செந்தூல்), pp. 182–187
 
 ---
 
