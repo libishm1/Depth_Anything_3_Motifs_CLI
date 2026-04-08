@@ -9,8 +9,9 @@ Refer [MOTIF_GLOSSARY](https://github.com/libishm1/Depth_Anything_3_Motifs_CLI/b
 
 
 Dataset associated with the repo -
-[10.5281/zenodo.19455013](https://doi.org/10.5281/zenodo.19455013) Thanjavur temple motifs
-https://doi.org/10.5281/zenodo.19468980 . Kulavilakkamman temple , Kalamangalam, Erode.
+1) https://doi.org/10.5281/zenodo.19455013 . Thanjavur temple motifs, Tamil Nadu
+2) https://doi.org/10.5281/zenodo.19468980 . Kulavilakkamman temple , Kalamangalam, Erode. Tamil Nadu
+3) https://doi.org/10.5281/zenodo.19469154 .  Narasimhaswamy Temple, Namakkal. Tamil Nadu
 
 ## Usage
 \\\
