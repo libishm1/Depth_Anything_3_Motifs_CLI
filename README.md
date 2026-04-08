@@ -29,3 +29,44 @@ py motifs_interactive.py --image 1.jpg --model large
 | n | Skip image |
 | q | Quit |
 
+---
+
+## License
+
+This repository uses a dual license structure.
+
+| Component | License |
+|---|---|
+| Motif imagery, site records, iconographic documentation | [CC BY-NC-ND 4.0](LICENSE.md) |
+| Pipeline software and code | [MIT](LICENSE.md) |
+
+### Motif Dataset — CC BY-NC-ND 4.0
+
+[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+The motif photographs and heritage documentation are free to use for **conservation, academic research, and educational purposes** with attribution. Commercial use and redistribution of modified versions are not permitted.
+
+**Required attribution:**
+> Motif records: Libish Murugesan, CM-iTAD Lab, Alfaisal University.
+> Source: Kalamangalam Temple, Erode District, Tamil Nadu —
+> Konguvellalar Kannan Kootam kula temple.
+> https://github.com/libishm1/Depth_Anything_3_Motifs_CLI
+
+### Software — MIT
+
+The depth reconstruction pipeline (CLI scripts, configuration, processing code) is free to use, modify, and distribute under the MIT License.
+
+### Citation
+
+```bibtex
+@software{murugesan2025motifs,
+  author    = {Murugesan, Libish},
+  title     = {Depth\_Anything\_3\_Motifs\_CLI: Monocular Depth Reconstruction 
+               for Temple Bas-Relief Motifs},
+  year      = {2025},
+  publisher = {GitHub},
+  url       = {https://github.com/libishm1/Depth_Anything_3_Motifs_CLI}
+}
+```
+
+See [LICENSE.md](LICENSE.md) for full terms.
