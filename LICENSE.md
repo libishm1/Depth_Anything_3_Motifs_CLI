@@ -53,7 +53,7 @@ https://github.com/libishm1/Depth_Anything_3_Motifs_CLI
 
 For heritage documentation submissions referencing this dataset:
 
-> Motif photographs and iconographic records: Libish Murugesan, CM-iTAD Lab,
-> Alfaisal University, Riyadh. Source temple: Kalamangalam, Erode District,
-> Tamil Nadu. Konguvellalar Kannan Kootam kula temple.
+> Motif photographs and iconographic records: Libish Murugesan,
+> Source temple: Kalamangalam, Erode District,
+> Tamil Nadu.
 > Dataset: https://github.com/libishm1/Depth_Anything_3_Motifs_CLI
