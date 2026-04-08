@@ -8,7 +8,7 @@ Interactive monocular depth reconstruction of Thanjavur temple bas-relief motifs
 Refer [MOTIF_GLOSSARY](https://github.com/libishm1/Depth_Anything_3_Motifs_CLI/blob/main/MOTIF_GLOSSARY.md) for more detailed description of motifs in tamil traditions
 
 
-Dataset associated with the repo - 10.5281/zenodo.19455013
+Dataset associated with the repo - [10.5281/zenodo.19455013](https://doi.org/10.5281/zenodo.19455013) Thanjavur temple motifs
 
 ## Usage
 \\\
