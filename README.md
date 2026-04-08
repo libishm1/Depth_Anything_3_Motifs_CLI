@@ -47,9 +47,8 @@ This repository uses a dual license structure.
 The motif photographs and heritage documentation are free to use for **conservation, academic research, and educational purposes** with attribution. Commercial use and redistribution of modified versions are not permitted.
 
 **Required attribution:**
-> Motif records: Libish Murugesan, CM-iTAD Lab, Alfaisal University.
-> Source: Kalamangalam Temple, Erode District, Tamil Nadu —
-> Konguvellalar Kannan Kootam kula temple.
+> Motif records: Libish Murugesan
+> Source: Kalamangalam Temple, Erode District, Tamil Nadu 
 > https://github.com/libishm1/Depth_Anything_3_Motifs_CLI
 
 ### Software — MIT
