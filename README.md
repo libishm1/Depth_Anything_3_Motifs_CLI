@@ -10,8 +10,9 @@ Interactive monocular depth reconstruction of Thanjavur temple bas-relief motifs
 For the Section 6.6 mesh validation table, see [VALIDATION.md](VALIDATION.md).
 The 35-panel mesh corpus is released at https://doi.org/10.5281/zenodo.19846595.
 
-Refer [MOTIF_GLOSSARY](https://github.com/libishm1/Depth_Anything_3_Motifs_CLI/blob/main/MOTIF_GLOSSARY.md) for more detailed description of motifs in tamil traditions
+## Related datasets and glossary of terms
 
+Refer [MOTIF_GLOSSARY](https://github.com/libishm1/Depth_Anything_3_Motifs_CLI/blob/main/MOTIF_GLOSSARY.md) for more detailed description of motifs in tamil traditions
 
 Dataset associated with the repo -
 1) https://doi.org/10.5281/zenodo.19455013 . Thanjavur temple motifs, Tamil Nadu
