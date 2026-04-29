@@ -22,7 +22,7 @@ Dataset associated with the repo -
 ## Usage
 \
 py motifs_interactive.py --image 1.jpg --model large
-\
+
 
 ## Controls
 | Key | Action |
