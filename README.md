@@ -20,9 +20,9 @@ Dataset associated with the repo -
 3) https://doi.org/10.5281/zenodo.19469154 .  Narasimhaswamy Temple, Namakkal. Tamil Nadu
 
 ## Usage
-\\\
+\
 py motifs_interactive.py --image 1.jpg --model large
-\\\
+\
 
 ## Controls
 | Key | Action |
